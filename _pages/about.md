@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "José Tomás Feliú"
 author_profile: true
 redirect_from: 
   - /about/
