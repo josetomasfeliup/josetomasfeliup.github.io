@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "José Tomás Feliú"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "José Tomás Feliú"
 description              : &description "personal description"
