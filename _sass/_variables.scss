@@ -52,73 +52,64 @@ $sidebar-link-max-width     : 250px;
 
 
 /* Colors */
-$background-color: #f3f3f3 !default;
-$text-color: #343434 !default;
-$muted-text-color: #8e8b82 !default;
-$primary-color: #343434 !default;
-$border-color: #e9dcbe !default;
-$footer-background-color: #e9dcbe !default;
-$link-color: #343434 !default;
-$masthead-link-color: $text-color !default;
-$masthead-link-color-hover: $text-color !default;
-$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+$gray                       : #7a8288;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
 
-/* dirt syntax highlighting (base16) */
-$base00: #231e18 !default;
-$base01: #302b25 !default;
-$base02: #48413a !default;
-$base03: #9d8b70 !default;
-$base04: #b4a490 !default;
-$base05: #cabcb1 !default;
-$base06: #d7c8bc !default;
-$base07: #e4d4c8 !default;
-$base08: #d35c5c !default;
-$base09: #ca7f32 !default;
-$base0a: #e0ac16 !default;
-$base0b: #b7ba53 !default;
-$base0c: #6eb958 !default;
-$base0d: #88a4d3 !default;
-$base0e: #bb90e2 !default;
-$base0f: #b49368 !default;
+$body-color                 : #252a34;
+$background-color           : #252a34;
+$code-background-color      : mix(#000, $background-color, 15%);
+$code-background-color-dark : mix(#000, $background-color, 20%);
+$text-color                 : #eaeaea;
+$border-color               : mix(#fff, $background-color, 20%);
+
+$primary-color              : #8cd2d5;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #52adc8;
+
    
-   /* brands */
-   $behance-color              : #1769FF;
-   $bluesky-color              : #1184fe;
-   $dribbble-color             : #ea4c89;
-   $facebook-color             : #3b5998;
-   $flickr-color               : #ff0084;
-   $foursquare-color           : #0072b1;
-   $github-color               : #171516;
-   $google-plus-color          : #dd4b39;
-   $instagram-color            : #517fa4;
-   $kaggle-color               : #20c0ff;
-   $lastfm-color               : #d51007;
-   $linkedin-color             : #007bb6;
-   $mastodon-color             : #6364ff;
-   $orcid-color                : #a6ce39;
-   $pinterest-color            : #cb2027;
-   $rss-color                  : #fa9b39;
-   $soundcloud-color           : #ff3300;
-   $stackoverflow-color        : #fe7a15;
-   $tumblr-color               : #32506d;
-   $twitter-color              : #55acee;
-   $vimeo-color                : #1ab7ea;
-   $vine-color                 : #00bf8f;
-   $youtube-color              : #bb0000;
-   $xing-color                 : #006567;
+/* brands */
+$behance-color              : #1769FF;
+$bluesky-color              : #1184fe;
+$dribbble-color             : #ea4c89;
+$facebook-color             : #3b5998;
+$flickr-color               : #ff0084;
+$foursquare-color           : #0072b1;
+$github-color               : #171516;
+$google-plus-color          : #dd4b39;
+$instagram-color            : #517fa4;
+$kaggle-color               : #20c0ff;
+$lastfm-color               : #d51007;
+$linkedin-color             : #007bb6;
+$mastodon-color             : #6364ff;
+$orcid-color                : #a6ce39;
+$pinterest-color            : #cb2027;
+$rss-color                  : #fa9b39;
+$soundcloud-color           : #ff3300;
+$stackoverflow-color        : #fe7a15;
+$tumblr-color               : #32506d;
+$twitter-color              : #55acee;
+$vimeo-color                : #1ab7ea;
+$vine-color                 : #00bf8f;
+$youtube-color              : #bb0000;
+$xing-color                 : #006567;
    
 
 
 
 
    
-   /* links */
-   $link-color                 : mix(#000, $info-color, 15%) !default;
-   $link-color-hover           : mix(#000, $link-color, 25%) !default;
-   $link-color-visited         : mix(#fff, $link-color, 15%) !default;
-   $masthead-link-color        : $primary-color !default;
-   $masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
-   $navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
+/* links */
+$link-color                 : mix(#000, $info-color, 15%) !default;
+$link-color-hover           : mix(#000, $link-color, 25%) !default;
+$link-color-visited         : mix(#fff, $link-color, 15%) !default;
+$masthead-link-color        : $primary-color !default;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
+$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
    
 
 
