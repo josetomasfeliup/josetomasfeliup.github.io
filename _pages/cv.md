@@ -14,42 +14,23 @@ Education
 * M.A. in Economics, Universidad de Chile, 2024 (expected).
 * B.A. in Economics, Universidad de Chile, 2022.
 
-Work experience
+Research experience
 ======
-* In construction
-[//]:   * Github University
-[//]:   * Duties includes: Updates and improvements to template
- [//]:  * Supervisor: The Users
+* April 2024 - Present: Research Assitant to Professors Nano Barahona (UC Berkelely), Cristóbal Otero (Columbia) and Sebastián Otero (Columbia).
+   * Working on a project about the implementation of food labeling law in Chile.
 
+* December 2023 - Present: Research Assitant to Professors Fabián Duarte and Esteban Puentes - Department of Economics, Universidad de Chile.
+   * Working on Labor Economics-related topics.
 
-  
-[//]: Skills
-[//]: ======
-[//]: * Skill 1
-[//]: * Skill 2
-[//]:   * Sub-skill 2.1
-[//]:   * Sub-skill 2.2
-[//]:   * Sub-skill 2.3
-[//]: * Skill 3
+* July 2023 - December 2023: Research Assitant to Professor Julio Pertuzé - School of Engineering, Pontifícia Universidad Católica de Chile.
+   * Worked on FONDECYT Project N° 11230393: “The effects of school closures on female entrepreneurship during the COVID-19 crisis: Evidence from Chile”.
 
-[//]: Publications
-[//]: ======
- [//]:  <ul>{% for post in site.publications reversed %}
- [//]:    {% include archive-single-cv.html %}
- [//]:  {% endfor %}</ul>
-  
-[//]: Talks
-[//]: ======
-[//]:   <ul>{% for post in site.talks reversed %}
-[//]:     {% include archive-single-talk-cv.html  %}
-[//]:   {% endfor %}</ul>
-  
-[//]: Teaching
-[//]: ======
-[//]:   <ul>{% for post in site.teaching reversed %}
-[//]:     {% include archive-single-cv.html %}
-[//]:   {% endfor %}</ul>
-  
-[//]: Service and leadership
-[//]: ======
-[//]: * Currently signed in to 43 different slack teams
+* July 2022 - December 2022: Internship - Centro de Estudios Públicos (CEP)
+   * Worked as research assistant on Education and Labor Economics-related topics.
+
+Teaching Assitant
+======
+* Quantitative Methods (Math. Camp M.A./Ph.D. in Economics) - Fall 2024.
+* Applied Economics - Spring 2022.
+* Economic and Social Analysis using Stata - Spring 2022.
+* Introduction to Microeconomics - Fall 2021.
