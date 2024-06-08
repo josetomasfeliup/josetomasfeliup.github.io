@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About2"
+title                    : "José Tomás Feliú"
 title_separator          : "-"
 name                     : &name "José Tomás Feliú"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "josetomasfeliup/josetomasfeliup.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "José Tomás Feliú"
+  #name             : "José Tomás Feliú"
   pronouns         : # example: "she/her"  
   bio              : "M.A. in Economics student."
   location         : "Santiago, Chile."
