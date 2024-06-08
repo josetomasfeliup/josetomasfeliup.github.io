@@ -28,7 +28,7 @@ Research experience
 * July 2022 - December 2022: Internship - Centro de Estudios Públicos (CEP)
    * Worked as research assistant on Education and Labor Economics-related topics.
 
-Teaching Assitant
+Teaching Assistant
 ======
 * Quantitative Methods (Math. Camp M.A./Ph.D. in Economics) - Fall 2024.
 * Applied Economics - Spring 2022.
