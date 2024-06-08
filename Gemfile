@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 #gem "minimal-mistakes-jekyll"
-gem "jekyll-include-cache", group: :jekyll_plugins
 
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -25,8 +24,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
-  gem "jekyll-feed"
-  gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "webrick", "~> 1.8"
   gem "jekyll-include-cache"
